@@ -55,7 +55,7 @@ Connect your Toon's debugging header to a Raspberry Pi according to the followin
 
 
 Then make sure the serial port on the Pi is enabled and the serial console is disabled
-using `raspi_config` and reboot if necessary. Install the dependencies mentioned in the
+using `sudo raspi-config` and reboot if necessary. Install the dependencies mentioned in the
 [Dependencies](#dependencies)-section.
 
 Then get and run this application:
